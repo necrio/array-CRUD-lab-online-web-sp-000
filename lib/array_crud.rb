@@ -7,7 +7,8 @@ random_numbers = [ 2, 5, 6, 8]
 end
 
 def add_element_to_end_of_array(array, element)
-
+cats = ["bub","cats"]
+cats << "nala"
 end
 
 def add_element_to_start_of_array(array, element)

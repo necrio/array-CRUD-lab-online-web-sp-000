@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  array2 = [a, b, c, d]
+  array2 = [asd,dsa,qwe,fe]
 end
 
 def add_element_to_end_of_array(array, element)

@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-random_numbers = [ 2, 5, 6, 8, 30050]
+random_numbers = [ 2, 5, 6, 8]
 end
 
 def add_element_to_end_of_array(array, element)

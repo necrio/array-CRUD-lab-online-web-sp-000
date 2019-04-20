@@ -29,6 +29,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
 num = [1, 2, "am"]
+num[2]
 end
 
 def retrieve_first_element_from_array(array)
